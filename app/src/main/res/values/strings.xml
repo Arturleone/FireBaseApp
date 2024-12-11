@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FireBase_Application</string>
+    <string name="email">E-Mail</string>
+    <string name="senha">Senha</string>
+    <string name="signup">Não possui conta? <font color='#FF9100'>Cadastre-se</font></string>
+    <string name="acessar">Acessar\n</string>
+    <string name="login">LOGAR\n</string>
+    <string name="register">REGISTRAR</string>
+    <string name="confirm_password">Confirmar Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="login_register">Possui cadastro? <font color='#FF9100'>Logue-se </font> </string>
+    <string name="nome">Nome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

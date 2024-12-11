@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tarefa_bottom_menu"
+        android:title="TAREFAS"
+        android:icon="@drawable/baseline_task_24"
+        />
+
+    <item
+        android:id="@+id/diario_bottom_menu"
+        android:title="DIÁRIO"
+        android:icon="@drawable/baseline_today_24"
+        />
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparente">#00FFFFFF</color>
+    <color name="firebaseOrange700">#FF9100</color>
+    <color name="firebaseYellow700">#FFC400</color>
+    <color name="firebaseRed700">#DD2C00</color>
+    <color name="firebaseOrange200">#FFAD46</color>
+    <color name="firebaseOrange100">#FFD6A3</color>
+    <color name="firebaseYellow200">#FFD052</color>
+    <color name="firebaseRed200">#FF9269</color>
+    <color name="gray">#D3D3D3</color>
+    <color name="divider">#D1D1D1</color>
+</resources>
